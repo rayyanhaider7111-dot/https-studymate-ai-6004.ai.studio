@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate AI",
+  "description": "Modern, beginner-friendly AI Study Assistant app for Indian students. Step-by-step doubt solver, AI tutor, revision notes, quiz practice, and study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
